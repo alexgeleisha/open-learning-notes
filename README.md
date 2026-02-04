@@ -1,2 +1,3 @@
-# open-learning-notes
-Public open notes for self-education and learning
+# Open Learning Notes
+
+This repository contains public notes about learning, habits, and self-improvement.
