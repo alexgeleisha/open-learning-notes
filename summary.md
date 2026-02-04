@@ -11,3 +11,6 @@ Habits help maintain progress.
 
 Sharing knowledge benefits everyone.
 Public notes encourage collaboration.
+## Final Note
+
+This repository is a simple open learning resource.
