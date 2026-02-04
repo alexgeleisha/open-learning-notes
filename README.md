@@ -23,3 +23,5 @@ These notes are created for beginners and self-learners.
 ## Open Source
 
 This project is open and free to use.
+
+Contributions and improvements are welcome.
