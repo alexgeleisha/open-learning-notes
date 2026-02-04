@@ -5,3 +5,7 @@ This repository contains public notes about learning, habits, and self-improveme
 ## Project Purpose
 
 The goal is to share simple learning notes in an open format.
+
+## Format
+
+Each file focuses on one topic and is written in simple language.
