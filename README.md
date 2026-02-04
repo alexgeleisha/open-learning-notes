@@ -13,3 +13,9 @@ Each file focuses on one topic and is written in simple language.
 ## Audience
 
 These notes are created for beginners and self-learners.
+
+## Files
+
+- learning.md
+- habits.md
+- summary.md
