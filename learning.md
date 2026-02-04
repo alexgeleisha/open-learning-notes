@@ -9,3 +9,4 @@ Short daily sessions are more effective than rare long ones.
 ## Active Learning
 
 Taking notes improves understanding.
+Explaining ideas in simple words helps retention.
