@@ -12,3 +12,4 @@ Removing distractions improves productivity.
 ## Tracking
 
 Tracking habits increases awareness.
+Simple checklists are effective.
