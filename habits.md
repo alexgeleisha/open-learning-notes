@@ -5,3 +5,6 @@ This file focuses on building learning habits.
 
 Small habits create long-term results.
 Consistency is more important than motivation.
+## Environment
+
+A clean environment supports focus.
