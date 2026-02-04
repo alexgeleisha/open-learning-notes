@@ -1,3 +1,4 @@
+> Public open notes for continuous learning.
 # Open Learning Notes
 
 This repository contains public notes about learning, habits, and self-improvement.
