@@ -10,3 +10,6 @@ Short daily sessions are more effective than rare long ones.
 
 Taking notes improves understanding.
 Explaining ideas in simple words helps retention.
+## Practice
+
+Practice reinforces knowledge.
