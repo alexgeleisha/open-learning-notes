@@ -9,3 +9,6 @@ Consistency is more important than motivation.
 
 A clean environment supports focus.
 Removing distractions improves productivity.
+## Tracking
+
+Tracking habits increases awareness.
