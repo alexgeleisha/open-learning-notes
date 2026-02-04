@@ -9,3 +9,7 @@ The goal is to share simple learning notes in an open format.
 ## Format
 
 Each file focuses on one topic and is written in simple language.
+
+## Audience
+
+These notes are created for beginners and self-learners.
