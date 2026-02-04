@@ -6,3 +6,4 @@ All content is written in simple language.
 ## Key Ideas
 
 Learning requires consistency and practice.
+Habits help maintain progress.
