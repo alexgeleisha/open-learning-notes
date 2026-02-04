@@ -13,3 +13,4 @@ Explaining ideas in simple words helps retention.
 ## Practice
 
 Practice reinforces knowledge.
+Mistakes are part of the learning process.
