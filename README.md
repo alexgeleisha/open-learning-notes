@@ -19,3 +19,7 @@ These notes are created for beginners and self-learners.
 - learning.md
 - habits.md
 - summary.md
+
+## Open Source
+
+This project is open and free to use.
