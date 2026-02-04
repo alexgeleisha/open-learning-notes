@@ -10,3 +10,4 @@ Habits help maintain progress.
 ## Open Knowledge
 
 Sharing knowledge benefits everyone.
+Public notes encourage collaboration.
