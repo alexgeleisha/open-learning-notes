@@ -13,3 +13,6 @@ Removing distractions improves productivity.
 
 Tracking habits increases awareness.
 Simple checklists are effective.
+## Summary
+
+Habits shape long-term behavior.
