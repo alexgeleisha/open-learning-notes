@@ -7,3 +7,6 @@ All content is written in simple language.
 
 Learning requires consistency and practice.
 Habits help maintain progress.
+## Open Knowledge
+
+Sharing knowledge benefits everyone.
