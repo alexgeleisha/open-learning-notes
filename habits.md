@@ -8,3 +8,4 @@ Consistency is more important than motivation.
 ## Environment
 
 A clean environment supports focus.
+Removing distractions improves productivity.
